@@ -1,0 +1,7 @@
+streamlit
+pandas
+pyspark
+scikit-learn
+numpy
+gspread
+oauth2client
